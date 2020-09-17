@@ -1,1 +1,1 @@
-It is an arena for Quiz lovers
+It is an arena for Quiz lovers.
