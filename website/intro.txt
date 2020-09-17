@@ -1,1 +1,1 @@
-This module is dedicated to web version of this project.
+This module is dedicated for web version of this project.
