@@ -1,0 +1,15 @@
+html
+{
+    background-color: aqua;
+}
+h1
+{
+    text-align: center;
+}
+body{
+    background-color: burlywood;
+    margin:5em auto;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    
+}
