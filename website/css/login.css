@@ -1,0 +1,22 @@
+body{
+    background-image: url(../images/background.svg);
+    background-position: top;
+}
+
+.sidenav{
+    background-color: #000;
+  
+    height: 100vh;
+    padding-top: 20px;
+    width: 35%;
+    
+}
+.login-text{
+    margin-top: 50%;
+    padding: 60px;
+    color: #fff;
+    
+}
+.login-text h2{
+    font-weight: 300;
+}
