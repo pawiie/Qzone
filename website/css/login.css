@@ -1,10 +1,13 @@
-html{
+.container-flex{
+    height: 90vh;
     background-image: url(../images/background.svg);
-    background-position: top;
 }
 
+.icons-social>a{
+    padding: 5px;
+    margin: 2px; 
+}
 
-
-
-
-
+.sign>button{
+    margin: 4px;   
+}
